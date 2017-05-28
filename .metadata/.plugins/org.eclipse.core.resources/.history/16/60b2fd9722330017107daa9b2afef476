@@ -1,0 +1,8 @@
+package com.caveofprogramming.spring.test;
+
+public class Address {
+	
+	private String street;
+	private String postcode;
+
+}

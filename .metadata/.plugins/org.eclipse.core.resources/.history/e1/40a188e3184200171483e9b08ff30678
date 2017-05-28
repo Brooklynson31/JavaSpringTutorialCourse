@@ -1,0 +1,6 @@
+package com.caveofprogramming.spring.test;
+
+public interface LogWriter { //common to use interfaces in spring
+	public void write(String text);
+
+}

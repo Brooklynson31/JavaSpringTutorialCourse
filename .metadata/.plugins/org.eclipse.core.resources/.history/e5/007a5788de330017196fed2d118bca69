@@ -1,0 +1,9 @@
+package com.caveofprogramming.spring.test;
+
+public class Animal {
+	
+	private String name;
+	private String type;
+	
+
+}
