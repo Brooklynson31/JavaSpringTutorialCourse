@@ -3,3 +3,6 @@
 127.0.0.1 - - [28/May/2017:10:05:13 -0400] "GET / HTTP/1.1" 404 951
 127.0.0.1 - - [28/May/2017:10:06:46 -0400] "GET / HTTP/1.1" 404 951
 0:0:0:0:0:0:0:1 - - [28/May/2017:10:06:47 -0400] "GET /spring-tutorial-22/WEB-INF/classes/com/caveofprogramming/spring/test/App.java HTTP/1.1" 404 949
+127.0.0.1 - - [28/May/2017:10:55:22 -0400] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [28/May/2017:11:09:20 -0400] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [28/May/2017:11:09:22 -0400] "GET /spring-tutorial-22/WEB-INF/classes/com/caveofprogramming/spring/test/beans/beans.xml HTTP/1.1" 404 949
